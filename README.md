@@ -1,4 +1,4 @@
-# timeline_go
+# timeline-go
 
 - CLI Tool for Google Maps Timline history
 
